@@ -4,7 +4,7 @@ import MarketingApp from './components/MarketingApp';
 export default () => {
     return (
         <div>
-            <h1>HELLO!!!!!!!!!</h1>
+            <h1>FUCK YOU!!!!!!!!!</h1>
             <br />
             <MarketingApp />
         </div>
